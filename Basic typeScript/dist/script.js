@@ -8,6 +8,7 @@ b = 1;
 let c;
 c = false;
 // Array
+//Arr
 let myArr;
 myArr = [1, 2, 3, 4];
 console.log(myArr);

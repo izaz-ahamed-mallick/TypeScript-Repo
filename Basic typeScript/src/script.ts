@@ -9,6 +9,7 @@ let c: boolean;
 c = false;
 
 // Array
+//Arr
 let myArr: number[];
 myArr = [1, 2, 3, 4];
 console.log(myArr);
